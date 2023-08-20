@@ -1,2 +1,14 @@
-# dreamland_house_request
-Request for building house in DreamLand
+# Заявка на строительство дома в DreamLand
+
+
+[Заявка на строительство в формате PDF](House description.pdf)
+
+[Заявка на строительство в формате MD](House description.md)
+
+Примерный план строительного участка
+
+![image-20230820235932429](assets/image-20230820235932429.png)
+
+Остров с маяком
+
+![image-20230821000123439](assets/image-20230821000123439.png)
