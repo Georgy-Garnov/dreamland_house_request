@@ -1,9 +1,8 @@
 # Заявка на строительство дома в DreamLand
 
+[Заявка на строительство в формате PDF](House_description.pdf)
 
-[Заявка на строительство в формате PDF](House description.pdf)
-
-[Заявка на строительство в формате MD](House description.md)
+[Заявка на строительство в формате MD](House_description.md)
 
 Примерный план строительного участка
 
